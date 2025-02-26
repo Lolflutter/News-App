@@ -34,6 +34,10 @@ dependencies:
   dio:
   intl:
   provider:
+  internet_connection_checker_plus:
+  hive:
+  path_provider:
+  webview_flutter:
 
 dev_dependencies:
   flutter_test:
